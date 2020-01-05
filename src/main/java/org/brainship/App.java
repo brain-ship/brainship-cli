@@ -2,6 +2,7 @@ package org.brainship;
 
 import org.brainship.util.Console;
 import org.brainship.util.Global;
+import org.brainship.util.CommandParser;
 
 public class App 
 {
