@@ -12,7 +12,7 @@ public class App
 		{
 			Console.print("Brainship >> ");
 			String st = Global.getInput();
-			if("end".equals(st) || "exit".equals(st)) Global.end();
+			CommandParser.parse(st);
 		}
     }
 }
