@@ -1,3 +1,5 @@
+package org.brainship.util;
+
 public class CommandParser
 {
 	public static void parse(String st)
